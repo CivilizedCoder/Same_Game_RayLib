@@ -1,0 +1,1 @@
+enum color{blank, red, blue, green};
